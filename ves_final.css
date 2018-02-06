@@ -1,0 +1,174 @@
+
+h1{
+	text-align: center;
+	font-family: "Snell Roundhand";
+	font-size: 70px;
+	color: #660066;
+	margin-bottom: 5px;
+}
+.dropcap01{
+	font-size: 200px;
+	color:#cc0000;
+}
+.dots{
+	font-size: 100px;
+	color: #cc0000;
+}
+.nickname{
+	margin-top: 120px;
+	margin-left: 50px;
+	font-size: 150px;
+	color: #660066;
+	font-family:"PilGi";
+}
+.flex{
+width:400px;
+height: 400px;
+-moz-border-radius:200px;
+-webkit-border-radius:200px;
+border-radius:200px;
+background-color: yellow;
+margin-left: 350px;
+margin-top: 500px;
+display: flex;
+justify-content: center
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.flex:hover{
+  background-color: red;
+}
+
+.ves{
+	width: 400px;
+	height: 600px;
+	-moz-border-radius: 200px / 400px;
+	-webkit-border-radius: 200px / 400px;
+	border-radius: 200px / 400px;
+	border: 5px solid red;
+  border-style:dotted;
+	padding: 20px;
+	/*margin-top: 200px;*/
+	margin-left: 80px;
+	margin-bottom: 100px;
+	float: left;
+}
+.patternv{
+	text-align: center;
+	color:#cc0000 ;
+	font-size: 50px;
+	padding: 5px;
+	font-family: "Snell Roundhand";
+	margin-bottom: 200px;
+	padding-top: 100px;
+	padding-bottom: 35px;
+}
+.pattern02{
+	text-align: center;
+	color: yellow;
+	font-size: 80px;
+	padding: 10px;
+	font-family: "PilGi";
+
+}
+.poem{
+	margin-top: 40px;
+	/*width: 500px;
+	height: 600px;
+	-moz-border-radius: 300px / 400px;
+	-webkit-border-radius: 300px / 400px;
+	border-radius: 300px / 400px;
+	background-color:  #ff8080;*/
+	font-family: "Didot";
+	font-size: 30px;
+	padding-left:80px;
+	padding: 40px;
+	margin-top: 40px;
+	margin-right: 40px;
+	/*margin-right:40px;
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-bottom: 700px;*/
+	color: #660066;
+	line-height: 60px;
+	float: right;
+	display: flex;
+	justify-content: center
+
+}
+.flex01{
+	width: 500px;
+	height: 650px;
+	-moz-border-radius: 200px / 100px;
+	-webkit-border-radius: 200px / 100px;
+	border-radius: 100px / 100px;
+	background-color:  #ff8080;
+	float: right;
+	display: flex;
+	justify-content: center;
+	margin-right:70px;
+	margin-top: 10px;
+	/*margin-left: 100px;*/
+	margin-bottom: 700px;
+}
+.dropcap{
+	font-size: 100px;
+	font-family: "Snell Roundhand";
+	color: yellow;
+}
+body{
+	background-color: #cc99ff;
+	padding: 40px;
+}
+.vesnav{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: #cc0000;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 540px;
+	transition: background-color 0.3s ease-in 0.2s;
+
+}
+.vesnav:hover{
+    background-color: yellow;
+}
+.voxnav{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: #cc0000;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+	transition: background-color 0.3s ease-in 0.2s;
+}
+.voxnav:hover{
+    background-color: yellow;
+}
+.limina{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: #cc0000;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+	transition: background-color 0.3s ease-in 0.2s;
+}
+.limina:hover{
+    background-color: yellow;
+}

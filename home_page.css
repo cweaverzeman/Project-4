@@ -1,0 +1,105 @@
+body{
+  background-color: #ccffcc;
+  padding: 20px;
+}
+h1{
+	text-align: center;
+	font-family: "Trattatello";
+	font-size: 70px;
+	color:  #ff80bf;
+margin-bottom: 5px;
+line-height: 150px;
+}
+
+  .dropcap01{
+  	font-size: 200px;
+  	color:#c44dff;
+    font-family: "Snell Roundhand"
+  }
+  .dropcap02{
+  font-size: 100px;
+  color:#c44dff;
+  font-family: "Snell Roundhand";
+
+  }
+  .pattern{
+    font-size: 150px;
+  	color:#8080ff;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    font-family: "Snell Roundhand";
+  }
+  .poem{
+    font-size: 40px;
+    color:#6666ff;
+background-color: #ffffb3;
+    padding:40px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    font-family: "Snell Roundhand";
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    border-radius: 40px;
+
+
+  }
+  .dropcap{
+font-size: 80px;
+  }
+  .circleves{
+    width:200px;
+    height: 200px;
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+    background-color: #cc99ff;
+    float: right;
+    display: inline-block;
+    margin-right: 300px;
+    margin-left: 20px;
+    margin-bottom: 80px;
+  transition: background-color 0.3s ease-in 0.2s;
+  }
+
+  .circleves:hover{
+    background-color: red;
+  }
+
+  .circlevox{
+    width:200px;
+    height: 200px;
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+background-color: #ff80bf;
+float:right;
+display: inline-block;
+margin-left: 20px;
+margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+  }
+
+  .circlevox:hover{
+    background-color: yellow;
+  }
+
+.circlelim{
+  width:200px;
+  height: 200px;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius:100px;
+  background-color: #6666ff; /*#ff5050;*/
+  float: right;
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 80px;
+  transition: backgroun-color 0.3s ease-in 0.2s;
+
+}
+.circlelim:hover{
+  background-color: red;
+}

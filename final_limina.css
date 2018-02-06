@@ -1,0 +1,119 @@
+img{
+  padding: 20px;
+  margin-bottom: 40px;
+  margin-left: 300px;
+  border: 20px solid#99ccff;
+}
+body{
+  background-color: #ff5050;
+  padding: 40px;
+}
+h1{
+  color:#99ccff ;
+  font-family: "Herculanum";
+  font-size: 70px;
+  text-align: center;
+}
+.pattern{
+  color:yellow;
+  font-family: "Cooper";
+  font-size: 50px;
+  margin-left: 70px;
+  margin-bottom: 40px;
+  padding-top: 150px;
+  padding-bottom: 40px;
+}
+.curls{
+  font-family: "Savoye LET";
+  color: yellow;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 20px;
+}
+.poem{
+  color:#b32d00;
+  background-color: #99ccff;
+  font-family: "Savoye LET";
+  font-size: 50px;
+  padding: 40px;
+  margin-left: 80px;
+  margin-right: 80px;
+  border-radius: 25px;
+
+}
+.dropcap{
+  font-size: 90px;
+}
+.dropcap01{
+  font-size: 100px;
+}
+.circle{
+  width:200px;
+  height: 200px;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius:100px;
+  background-color: yellow;
+  margin-right: 20px;
+  float:left;
+  margin-left: 500px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circle:hover{
+  background-color:#99ccff ;
+}
+.ves{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: yellow;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 520px;
+  transition: background-color 0.3s ease-in 0.2s;
+}
+.ves:hover{
+    background-color: #99ccff;
+}
+.voxnav{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: yellow;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease-in 0.2s;
+
+}
+.voxnav:hover{
+    background-color: #99ccff;
+}
+.limina{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: yellow;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease-in 0.2s;
+
+}
+.limina:hover{
+    background-color: #99ccff;
+}

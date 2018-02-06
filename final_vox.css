@@ -1,0 +1,149 @@
+body{
+  background-color: #ffff99;
+}
+.vox{
+  width:400px;
+  height: 400px;
+  -moz-border-radius:200px;
+  -webkit-border-radius:200px;
+  border-radius:200px;
+  margin-left:20px;
+  margin-right: 200px;
+  margin-top: 80px;
+  float: right;
+}
+.pattern{
+  font-family: "Trattatello";
+  font-size: 50px;
+  color:#5c00e6;
+  text-align: center;
+  margin-bottom: 80px;
+  padding-top: 100px;
+}
+.dots{
+  font-size: 50px;
+  color: orange;
+}
+.poem{
+  margin-left:100px;
+  margin-right: 100px;
+  padding: 40px;
+  background-color: #ffb3d9;
+  font-size: 40px;
+  font-family:"Trattatello";
+  color:#2d862d;
+  border-radius: 30px;
+}
+h1{
+  text-align: center;
+  font-family: "Trattatello";
+  font-size: 100px;
+  color: #5c00e6;
+  margin-bottom: 0px;
+  margin-top: 100px;
+  padding-bottom: 0px;
+}
+.dropcap01{
+  font-size: 200px;
+}
+.dropcap{
+  font-size: 100px;
+}
+.doll{
+  width:200px;
+  height: 200px;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius:100px;
+  margin-left:500px;
+  border: 10px solid red;
+  border-style:dotted;
+  padding: 10px;
+
+}
+.v{
+  text-align: center;
+  font-family:"Trattatello";
+  color:#5c00e6;
+  font-size: 120px;
+  padding: 40px;
+}
+.x{
+  text-align: center;
+  font-family:"Trattatello";
+  color:#5c00e6;
+  font-size: 100px;
+  padding: 40px;
+}
+.circle{
+  width:200px;
+  height: 200px;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+  border-radius:100px;
+  background-color: #cc99ff;
+  margin-right: 20px;
+  float:left;
+  margin-left: 500px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circle:hover{
+  background-color: red;
+}
+#nav{
+  margin-top: 5px
+}
+.ves{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: #cc99ff;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 555px;
+  transition: background-color 0.3s ease-in 0.2s;
+
+}
+.ves:hover{
+    background-color: red;
+}
+.voxnav{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: #cc99ff;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease-in 0.2s;
+}
+.voxnav:hover{
+    background-color: red;
+}
+.limina{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color: #cc99ff;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease-in 0.2s;
+}
+.limina:hover{
+    background-color: red;
+}

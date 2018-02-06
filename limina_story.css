@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Belgrano|Macondo|Megrim|Ruslan+Display');
+body{
+  background-color:	 #ff8080;
+  padding:90px;
+}
+h1{
+  text-align: center;
+  font-family:'Ruslan Display', cursive;
+  font-size:70px;
+  color: #5200cc;
+
+}
+.dropcap01{
+  color: yellow;
+  font-size: 120px;
+
+}
+.dots{
+  text-align: center;
+  color: yellow;
+  font-size: 70px;
+  font-family:'Ruslan Display', cursive;
+}
+.dropcap02{
+  color: #ff4d4d;
+  font-size: 100px;
+font-family: 'Ruslan Display', cursive;
+}
+.story{
+background-color:  #ffff99;
+padding: 80px;
+line-height: 60px;
+}
+p{
+  font-family:'Belgrano', serif;
+  font-size:25px;
+  color: #661aff;
+
+}

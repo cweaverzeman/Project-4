@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+h1{
+  text-align: center;
+  font-family: 'Megrim', cursive;
+  font-size: 80px;
+  color:#4d4dff;
+  margin-bottom: 5px;
+}
+.dropcap01{
+  font-size: 100px;
+  color: red;
+
+}
+.dots{
+  text-align: center;
+  font-family: 'Megrim', cursive;
+  font-size: 80px;
+  color:red;
+}
+body{
+  background-color: #ffb3ff;
+  padding: 80px;
+}
+.story{
+  background-color:  #ffffcc;
+  padding: 70px;
+  line-height: 50px;
+}
+.dropcap02{
+  font-size: 80px;
+  color: red;
+font-family: 'Megrim', cursive;
+}
+p{
+  font-family: "Avenir Next";
+  font-size: 30px;
+  color: 	 #7300e6;
+}
