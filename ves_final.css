@@ -131,7 +131,7 @@ body{
   float: right;
   margin-bottom: 40px;
   margin-top: 5px;
-  margin-right: 540px;
+  margin-right: 500px;
 	transition: background-color 0.3s ease-in 0.2s;
 
 }
@@ -171,4 +171,21 @@ body{
 }
 .limina:hover{
     background-color: yellow;
+}
+.home{
+	width:40px;
+	height: 40px;
+	/*-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;*/
+	background-color:#cc0000 ;
+	display: inline-block;
+	float: right;
+	/*margin-bottom: 40px;*/
+	margin-top: 5px;
+	margin-right: 10px;
+	transition: background-color 0.3s ease-in 0.2s;
+}
+.home:hover{
+  background-color: yellow;
 }

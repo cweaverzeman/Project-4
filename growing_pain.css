@@ -4,7 +4,7 @@ h1{
   font-family:'Macondo', cursive;
   font-size: 70px;
   color:#ff8c1a;
-  padding: 20px;
+  padding: 5px;
 
 }
 .dropcap01{
@@ -24,12 +24,47 @@ h1{
   font-size:70px;
   font-family: 'Macondo', cursive;
 }
+.home{
+  width:40px;
+	height: 40px;
+	/*-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;*/
+	background-color:#6666ff;
+	display: inline-block;
+	float: right;
+	/*margin-bottom: 40px;*/
+	margin-top: 5px;
+	margin-right: 10px;
+	transition: background-color 0.3s ease-in 0.2s;
+}
+.home:hover{
+  background-color:#ff6600;
+}
+.ves{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;
+  background-color:#6666ff;
+  display: inline-block;
+  float: right;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-right: 500px;
+	transition: background-color 0.3s ease-in 0.2s;
+
+}
+.ves:hover{
+    background-color:#ff6600;
+}
 .poem{
   background-color: #d9b3ff;
   padding: 80px;
   padding-left: 100px;
   line-height: 45px;
-  color: #ff4d88;
+  /*color: #ff4d88;*/
 
 
 }

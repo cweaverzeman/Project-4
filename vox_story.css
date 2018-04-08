@@ -4,18 +4,54 @@ h1{
   font-family: 'Megrim', cursive;
   font-size: 80px;
   color:#4d4dff;
-  margin-bottom: 5px;
+  margin-bottom: 40px;
 }
 .dropcap01{
   font-size: 100px;
   color: red;
 
 }
+.home{
+  width:40px;
+  height: 40px;
+  /*-moz-border-radius:20px;
+  -webkit-border-radius:20px;
+  border-radius:20px;*/
+  background-color:red;
+  display: inline-block;
+  float: right;
+  /*margin-bottom: 70px;*/
+  margin-top: 5px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease-in 0.2s;
+}
+.home:hover{
+  background-color: #4d4dff;
+}
+.vox{
+  width:40px;
+  height: 40px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:;
+  border-radius:20px;
+  background-color:red;
+  display: inline-block;
+  float: right;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-right: 510px;
+  transition: background-color 0.3s ease-in 0.2s;
+}
+.vox:hover{
+  background-color:#4d4dff;
+}
 .dots{
   text-align: center;
   font-family: 'Megrim', cursive;
   font-size: 80px;
   color:red;
+  margin-top: 5px;
+  padding-top: 5px;
 }
 body{
   background-color: #ffb3ff;
